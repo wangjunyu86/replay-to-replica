@@ -1,0 +1,4 @@
+interface:
+  display_name: "Replay to Replica"
+  short_description: "把软件演示转成独立行为规格、实现任务和可验证复刻报告"
+  default_prompt: "Use $replay-to-replica to turn this software demonstration into a clean-room behavior specification and verified independent implementation plan."
